@@ -1,4 +1,4 @@
-"# GrowUp" 
+# GrowUp
 ## Inspiration
 Continous heigth tracking of children is crucial to monitoring a healthy child development. Moreover, height tracking is an easy and effortless task, every parent can do on their own. Theirfore we decided to create an application to simplify the process of height tracking.
 
