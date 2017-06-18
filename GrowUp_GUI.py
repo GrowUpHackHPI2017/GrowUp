@@ -1,4 +1,4 @@
-# USAGE
+# Usage
 # python detect.py --images images
 # import the necessary packages
 
